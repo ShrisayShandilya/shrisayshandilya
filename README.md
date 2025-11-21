@@ -43,8 +43,7 @@ A computer vision system that detects hazards on lunar terrain and computes safe
 
 ---
 
-## 📄 Resume
-[Click here to view my resume](https://github.com/ShrisayShandilya/shrisayshandilya/blob/main/Shrisay%20Resume%20(1).pdf)
+## [📄 Resume] (https://github.com/ShrisayShandilya/shrisayshandilya/blob/main/Shrisay%20Resume%20(1).pdf)
 
 ---
 
