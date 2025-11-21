@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shrisay Shandilya
 
-### 🎓 First-year Engineering Student @ BITS Pilani  
+### 🎓 EnI Sophomore @ BITS Pilani  
 ### 🧠 AI/ML • LLM Systems • Deep Learning • Agents  
 ### 🛠️ Building ML projects, agents, and applied AI tools.
 
